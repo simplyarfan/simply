@@ -1,4 +1,4 @@
-# simply-rag
+# simply
 
 Team simply's code for the AMD AI League mini-challenges. Each match has its
 own folder and its own container image.
