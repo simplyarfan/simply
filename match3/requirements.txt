@@ -1,0 +1,6 @@
+# Nothing here depends on torch, and torch itself is pinned by pin_torch.py,
+# so the ROCm build from the base image stays put.
+transformers==5.19.0
+pypdf==6.17.0
+python-docx==1.2.0
+openpyxl==3.1.5
